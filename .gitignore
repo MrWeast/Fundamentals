@@ -6,3 +6,11 @@
 *.dll
 *.dylib
 *.out
+
+
+#ignore clang formatting
+.clang-format
+
+#ignore test files
+*test/
+*build/
