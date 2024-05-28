@@ -1,6 +1,7 @@
 
 #pragma once
 /**
+ * @class Node
  * @brief Node class for data structures in LinkedLists
  * 
  */

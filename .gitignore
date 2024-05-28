@@ -11,6 +11,8 @@
 #ignore clang formatting
 .clang-format
 
-#ignore test files
+#ignore test files and html documentation
 *test/
 *build/
+/html
+#ignore doxy generated code

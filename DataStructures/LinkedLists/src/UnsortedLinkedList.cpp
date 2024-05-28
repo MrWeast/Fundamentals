@@ -22,11 +22,6 @@ void UnsortedLinkedList::insert(float value)
     if (head == nullptr)
     {
         head = newnode;
-    }
-    else if (tail == nullptr)
-    { // insert at head->next if tail is empty
-        head->set_next(newnode);
-        newnode->set_prev(head);
         tail = newnode;
     }
     else
