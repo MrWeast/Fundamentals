@@ -1,0 +1,30 @@
+Data Structures - c++
+    - add: tests for Lists
+    - add: binary search trees, main and tests
+    - add: hash tables,main and tests
+    - add: queues, main and tests
+    - ...
+
+Algorithms - c++
+    - add: min queue
+    - add: max queue
+    - add: tallest valid tower
+    - ...
+
+Machine Learning - python
+    - classification
+        - add: logistic
+        - add: SVM
+    - regression
+        - add: ridge
+        - add: elastic net
+        - add: LASSO
+        - add: OLS
+        - add: splines
+    - clustering
+        - add: spectral
+        - add: kmeans
+    - data completion
+        - add: sparse smooth tensor decomposition
+        - add: low rank matrix completino
+    

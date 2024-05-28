@@ -15,4 +15,5 @@
 *test/
 *build/
 /html
-#ignore doxy generated code
+
+
