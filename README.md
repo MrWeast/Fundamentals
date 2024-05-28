@@ -1,4 +1,4 @@
-## Description
+# Description
 - this repo is for me to demo some fundamentals on various topics
   - Topics I aim to include:
     - Algorithms
